@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DataGridExempel/1.0.0": {
+        "runtime": {
+          "DataGridExempel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataGridExempel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
